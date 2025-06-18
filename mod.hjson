@@ -1,0 +1,7 @@
+name: wallspace
+displayName: Wallspace
+author: Raviravirego76466
+description: adds wallspaces!
+version: "1"
+minGameVersion: "149"
+dependencies: [ ]
